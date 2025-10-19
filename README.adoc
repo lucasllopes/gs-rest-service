@@ -38,7 +38,7 @@ response, as the following listing shows:
 ====
 [source,json]
 ----
-{"id":1,"content":"Hello, User!"}
+{"id":101,"content":"Hello, User!"}
 ----
 ====
 
