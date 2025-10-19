@@ -3,8 +3,7 @@ name: Java App Fiap Postech
 on:
   push:
     branches:
-      - main
-      - developer
+      - main-xx
   workflow_dispatch:
 
 jobs:
