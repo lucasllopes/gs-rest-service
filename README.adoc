@@ -18,7 +18,7 @@ It will respond with a JSON representation of a greeting, as the following listi
 ====
 [source,json]
 ----
-{"id":10,"content":"Hello, World!"}
+{"id":101,"content":"Hello, World!"}
 ----
 ====
 
